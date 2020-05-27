@@ -3,9 +3,9 @@ Created a webpage that allows you to search for weather information using the Go
 
 Screenshots of the Website
 
-<p align="center">
+<p align="center"><b>
   **Initial Screen**<br>
-![Initial Screen](https://github.com/agjay96/Weather-Forecast/blob/master/images/initial%20screen.png)
+img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/initial%20screen.png"
 **Search Results**<br>
 ![Search Results](https://github.com/agjay96/Weather-Forecast/blob/master/images/Search%20Results.png)
 **Selected Day Detailed Report**<br>
@@ -14,4 +14,4 @@ Screenshots of the Website
 ![Expand Hourly Graph](https://github.com/agjay96/Weather-Forecast/blob/master/images/Expand%20Graph.png)
 **Expanded Hourly Weather Graph**<br>
 ![Expanded Hourly Weather Graph](https://github.com/agjay96/Weather-Forecast/blob/master/images/Hourly%20Weather%20Graph.png)
-</p>
+ </b></p>

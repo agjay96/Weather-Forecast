@@ -1,7 +1,8 @@
 <?php
 
-$google_api_key='AIzaSyDjOjAEVXEgU0hF8K25Ryr_o_0Lmvd05KE';
-$forecast_api_key='a7ad6203b935bfd42751075bb6c16f51';
+// Add your google API & Forecast API keys
+$google_api_key='';
+$forecast_api_key='';
 
 $street=$_POST["street"];
 $city=$_POST["city"];

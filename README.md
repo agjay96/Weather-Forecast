@@ -1,5 +1,6 @@
 # Weather-Forecast
-Created a webpage that allows you to search for weather information using the Google Geocode and forecast.io API, and the results will be displayed in tabular format.
+Created a webpage that allows you to search for weather information using the Google Geocode and forecast.io API, and the results will be displayed in tabular format using DarkSky API.
+(PHP, JavaScript, HTML, CSS)
 
 <h1>Screenshots of the Website</h1>
 

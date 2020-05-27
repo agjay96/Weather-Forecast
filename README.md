@@ -1,17 +1,17 @@
 # Weather-Forecast
 Created a webpage that allows you to search for weather information using the Google Geocode and forecast.io API, and the results will be displayed in tabular format.
 
-Screenshots of the Website
+<h1>Screenshots of the Website</h1>
 
 <p align="center"><b>
-  <h1>Initial Screen</h1><br>
+  <h3>Initial Screen</h3><br>
 <img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/initial%20screen.png"><br><br><br><br>
-Search Results<br>
+<h3>Search Results<br>
 <img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/Search%20Results.png"><br><br><br><br>
-Selected Day Detailed Report<br>
+<h3>Selected Day Detailed Report<br>
 <img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/Selected%20Day%20Details.png"><br><br><br><br>
-Expand Hourly Graph<br>
+<h3>Expand Hourly Graph<br>
 <img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/Expand%20Graph.png"><br><br><br><br>
-Expanded Hourly Weather Graph<br>
+<h3>Expanded Hourly Weather Graph<br>
 <img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/Hourly%20Weather%20Graph.png"><br><br><br><br>
   </b></p>

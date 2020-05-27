@@ -5,7 +5,7 @@ Created a webpage that allows you to search for weather information using the Go
 
 <p align="center"><b>
   <h3>Initial Screen</h3><br>
-<img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/initial%20screen.png"><br><br><br><br>
+<img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/initial%20page.png"><br><br><br><br>
 <h3>Search Results<br>
 <img src="https://github.com/agjay96/Weather-Forecast/blob/master/images/Search%20Results.png"><br><br><br><br>
 <h3>Selected Day Detailed Report<br>
